@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/flash/Desktop/android-mvp/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/flash/Desktop/android-mvp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

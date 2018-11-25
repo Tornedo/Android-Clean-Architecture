@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">32dp</dimen>
+    <dimen name="activity_vertical_margin">32dp</dimen>
+    <dimen name="dp_10">20.00dp</dimen>
+    <dimen name="dp_140">280.00dp</dimen>
+    <dimen name="dp_210">420.00dp</dimen>
+    <dimen name="dp_50">100.00dp</dimen>
+    <dimen name="dp_75">150.00dp</dimen>
+    <dimen name="sp_14">28.00sp</dimen>
+    <dimen name="sp_16">32.00sp</dimen>
+    <dimen name="sp_18">36.00sp</dimen>
+</resources>

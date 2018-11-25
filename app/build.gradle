@@ -1,0 +1,50 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.android.mvp"
+        minSdkVersion 21
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0.0"
+
+    }
+    buildTypes {
+
+
+        debug {
+            buildConfigField 'String', "NEWS_SERVER_URL", NEWS_SERVER_URL
+
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField 'String', "NEWS_SERVER_URL", NEWS_SERVER_URL
+
+        }
+
+
+    }
+    dexOptions {
+        incremental true
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+dependencies {
+    compile 'com.google.code.gson:gson:2.8.5'
+    compile 'com.facebook.fresco:fresco:0.10.0'
+    compile 'com.squareup.retrofit2:retrofit:2.4.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.4.0'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.10.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.4.0'
+    compile 'org.mockito:mockito-core:2.7.22'
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.json:json:20180130'
+}

@@ -1,0 +1,587 @@
+[
+    {
+        "outputFile": "/Users/flash/Desktop/android-mvp/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 55,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 39,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 41,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 41,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 41,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 41,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 40,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 40,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 40,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 40,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 39,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 39,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 39,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 39,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 39,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 39,
+                        "endOffset": 440
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 55,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 39,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 41,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 41,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 41,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 41,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 40,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 40,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 40,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 40,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 39,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 39,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 39,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 39,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 39,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 39,
+                        "endOffset": 440
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 55,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 39,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 41,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 41,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 41,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 41,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 40,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 40,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 40,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 40,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 39,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 39,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 39,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 39,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 39,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 39,
+                        "endOffset": 440
+                    }
+                }
+            }
+        ]
+    }
+]

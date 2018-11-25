@@ -1,0 +1,587 @@
+[
+    {
+        "outputFile": "/Users/flash/Desktop/android-mvp/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 236,
+                        "endColumn": 36,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 41,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 349,
+                        "endColumn": 38,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 41,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 310,
+                        "endColumn": 38,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 39,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 273,
+                        "endColumn": 36,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 40,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 198,
+                        "endColumn": 37,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 39,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 425,
+                        "endColumn": 36,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 39,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 388,
+                        "endColumn": 36,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 39,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 161,
+                        "endColumn": 36,
+                        "endOffset": 196
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 236,
+                        "endColumn": 36,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 41,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 349,
+                        "endColumn": 38,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 41,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 310,
+                        "endColumn": 38,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 39,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 273,
+                        "endColumn": 36,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 40,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 198,
+                        "endColumn": 37,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 39,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 425,
+                        "endColumn": 36,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 39,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 388,
+                        "endColumn": 36,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 39,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 161,
+                        "endColumn": 36,
+                        "endOffset": 196
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 236,
+                        "endColumn": 36,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 41,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 349,
+                        "endColumn": 38,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 41,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 310,
+                        "endColumn": 38,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 39,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 273,
+                        "endColumn": 36,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 40,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 198,
+                        "endColumn": 37,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 39,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 425,
+                        "endColumn": 36,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 39,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 388,
+                        "endColumn": 36,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 39,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 161,
+                        "endColumn": 36,
+                        "endOffset": 196
+                    }
+                }
+            }
+        ]
+    }
+]

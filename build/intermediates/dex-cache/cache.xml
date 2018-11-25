@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.6.11/200d9c012befccd211ff91082a151257b1dc084/byte-buddy-agent-1.6.11.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0200d9c012befccd211ff91082a151257b1dc084">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/byte-buddy-agent-1.6.11_4f4df3491531cb3e93f0375837ae9b525fe70673.jar" />
+    </item>
+    <item
+        jar="/Users/flash/Desktop/android-mvp/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.10.0_463f6cd2ed6b740b379d10ea5faabefc39fcab2b.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/okio-1.14.0_c3cb8370fc5a95b30ac93ef0aba55c72b2a0d37a.jar" />
+    </item>
+    <item
+        jar="/Users/flash/Desktop/android-mvp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_e3462713e772f7f7eb32555f72f312d0bf2ef5d2.jar" />
+    </item>
+    <item
+        jar="/Users/flash/Desktop/android-mvp/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.10.0_18e36ff9dd44438da8d60f0b921a81015eaf7a68.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.6.11/8a8f9409e27f1d62c909c7eef2aa7b3a580b4901/byte-buddy-1.6.11.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a8f9409e27f1d62c909c7eef2aa7b3a580b4901">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/byte-buddy-1.6.11_70075d2b07a1bb8c739fd6ffd5f810db0d1856fd.jar" />
+    </item>
+    <item
+        jar="/Users/flash/Desktop/android-mvp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_e4e01429dd41d913404eac43d488be965976cad4.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.7.22/fcf63bc8010ca77991e3cadd8d33ad1a40603404/mockito-core-2.7.22.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcf63bc8010ca77991e3cadd8d33ad1a40603404">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/mockito-core-2.7.22_49422b4cb45e7c36fc8d5eb70d2f0852e4026dd9.jar" />
+    </item>
+    <item
+        jar="/Users/flash/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_1e7fdc8201258755c5093249c35217afd5738c43.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f645ed69d595b24d4cf8b3fbb64cc505bede8829">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/gson-2.8.5_21c7a708adcf8b64e39c7168e21603ba1acea77d.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_3533a8d679d171df1d7e9ca6239968473e4ce583.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.4.0/15d7790ee311d961379c51b00aba12d5967cb7ea/converter-gson-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="15d7790ee311d961379c51b00aba12d5967cb7ea">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/converter-gson-2.4.0_2bf94b79bdfe2001af0a65e0bdff7e033250b230.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_a782ff56632d221fe4829b4188e63829ee105f9c.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.4.0/fc4aa382632bfaa7be7b41579efba41d5a71ecf3/retrofit-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fc4aa382632bfaa7be7b41579efba41d5a71ecf3">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/retrofit-2.4.0_cf3ab1c889cc9e074ad01a9d529219690126cacd.jar" />
+    </item>
+    <item
+        jar="/Users/flash/Desktop/android-mvp/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.10.0_74717568438f3f5c74fca79170b682f2d57f0455.jar" />
+    </item>
+    <item
+        jar="/Users/flash/Desktop/android-mvp/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.10.0_b75f45d49d9b86c8b3e3f652fee11bd0b3b30aab.jar" />
+    </item>
+    <item
+        jar="/Users/flash/Desktop/android-mvp/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.10.0_e73597bf27a01abd8b2c5e72deaff43b692e756e.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.10.0/55f574ec622f65ac9c0e2e922d3ffa01dc4f139e/logging-interceptor-3.10.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="55f574ec622f65ac9c0e2e922d3ffa01dc4f139e">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.10.0_b210359df0971f6ffc9610b1a50e4b92bb854611.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/library-2.4.0_dd277f6b984ccfffdcf93400c9386f959472a2c1.jar" />
+    </item>
+    <item
+        jar="/Users/flash/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.5/612ecb799912ccf77cba9b3ed8c813da086076e9/objenesis-2.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="612ecb799912ccf77cba9b3ed8c813da086076e9">
+        <dex dex="/Users/flash/Desktop/android-mvp/app/build/intermediates/pre-dexed/debug/objenesis-2.5_08378c527f08afd5b5403caa05985f91e7c3db1a.jar" />
+    </item>
+
+</items>

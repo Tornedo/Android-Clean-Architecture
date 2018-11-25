@@ -1,0 +1,80 @@
+[
+    {
+        "outputFile": "/Users/flash/Desktop/android-mvp/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/flash/Desktop/android-mvp/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 129
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/Flash/Downloads/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 129
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/Flash/Desktop/untitled folder 2/itmobapps-android_challenge-5cb17fc9e50a/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 129
+                    }
+                }
+            }
+        ]
+    }
+]
