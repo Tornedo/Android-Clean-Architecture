@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c2833cc-a6dd-4729-a554-5bb9a12b79a9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/service/NewsService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/utils/EmptyStringAsNullTypeAdapter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/utils/GsonUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/utils/InputStreamUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/utils/Logger.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/views/BaseView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/views/Processing.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1850,7 +1847,7 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="sample" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="presentar" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="android-mvp" type="1abcf292:AndroidViewProjectNode" />
