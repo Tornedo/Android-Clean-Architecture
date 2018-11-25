@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c2833cc-a6dd-4729-a554-5bb9a12b79a9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/presentar/DataPresenter.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/service/NewsService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/utils/EmptyStringAsNullTypeAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/utils/GsonUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/utils/InputStreamUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/mvp/sample/utils/Logger.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
